@@ -9,4 +9,26 @@
     
     import 'relative/path/to/stylesheet.scss';
 
-*/
+*/.container{
+    margin: 30px 0px 0px 300px;
+    width: 50%;
+    border: 1px solid lightblue;
+    background-color: #5AC5E9;
+    padding: 10px;
+    font-family: 'Island Moments', cursive;
+}
+
+.add-btn {
+    float: right;
+    background-color:red;
+    color: white;
+}
+
+.btn-close{
+    float: right;  
+    padding-right: 10px;
+
+}
+input{
+    margin: 10px 0 10px 0;
+}
