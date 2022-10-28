@@ -57,7 +57,7 @@ const home = () => {
               <li key={index}>
                 <button
                   type="button"
-                  class="btn-close btn-close-white"
+                  className="btn-close btn-close-white"
                   aria-label="Close"
                   onClick={() => deleteTask(index)}
                 ></button>
